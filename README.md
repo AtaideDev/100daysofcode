@@ -1,25 +1,39 @@
 # 100-days-of-code
 
-The idea of the project is to commit yourself at least one hour a day to code in any language you want for a hundred days (at least). The regularity is key here, you need to practice a bit everyday, including the weekends.
-All the challenges present here are medium/hard level. You can (and you should) participate even if you don't have much experience with coding, it will only take a bit longer.
-Most of the challenges can be solved in three hours or less.
+A ideia do projeto é comprometer-se pelo menos uma hora por dia para codificar em qualquer linguagem que você queira por cem dias (pelo menos). A regularidade é fundamental aqui, você precisa praticar um pouco todos os dias, inclusive nos finais de semana. Todos os desafios aqui apresentados são de nível médio/difícil. Você pode (e deve) participar mesmo que não tenha muita experiência com codificação, só vai demorar um pouco mais. A maioria dos desafios pode ser resolvida em três horas ou menos.
 
 ---
 
 ## 🚩 Rules
 
-- The main rule is: Code at least an hour every day (don't skip weekends/holidays)
-- Choose a language you wan't to learn or improve
-- Share your progress daily in your social medias
-- Don't copy code from the internet
-- Try to come up with a clean and elegant solution
-- Always write tests (and make them pass)
+- A regra principal é: Codifique pelo menos uma hora todos os dias (não pule finais de semana/feriados)
+- Escolha uma linguagem que você deseja aprender ou melhorar
+- Compartilhe seu progresso diariamente em suas mídias sociais
+- Não copie código da internet
+- Tente encontrar uma solução limpa e elegante
+- Sempre escreva testes (e faça-os passar)
 
 ---
 ## Index
 
-[Week-01](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-01) <br/> &nbsp;&nbsp;&nbsp;&nbsp;[day-01 - Convert Age to Days]
+**⫰ Semana-01**
 
-#### Original Idea
+&nbsp;&nbsp;&nbsp;&nbsp;[Day-01 - Converta idade em dias](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-01)
 
-Check out the [#100DaysOfCode Project](https://www.100daysofcode.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+&nbsp;&nbsp;&nbsp;&nbsp;[Day-02 - Procurando Nemo](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-02)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Day-03 - Espetinho de carne ou vegano?](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-03)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Day-04 - John está progredindo?](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-04)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Day-05 - Par de meias](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-05)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Day-06 - Proximo primo](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-06)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Day-07 - Matriz classificada]()
+
+
+#### Ideia Original
+
+Confira o [Projeto #100DaysOfCode](https://www.100daysofcode.com/). Mudando seus hábitos você está mudando sua vida. Lembre-se que a melhor hora para começar é sempre AGORA!
