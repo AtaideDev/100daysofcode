@@ -1,0 +1,27 @@
+// Crie uma função que percorra uma série de milhas percorridas todos os sábados e retorne o número total de dias de progresso de Johnny.
+
+const semanas = [
+[7,3,6,16,2,4,5],
+[5,8,12,3,5,6,13],
+[8,3,6,9,4,8,10]
+];
+const nomesDeSemana = ['primeira', 'segunda', 'terceira'];
+
+const diasDeProgresso = (dias) => {
+    let progresso = 0
+    
+    for (let i = 0; i < dias.length - 1; i++) {
+        if(dias[i] < dias[i + 1]){
+            progresso++
+        }
+    }
+    return progresso;
+}
+
+const progressoSemanal = semanas.map(diasDeProgresso);
+
+progressoSemanal.forEach((progresso, i) => { 
+    console.log(`John teve ${progresso} dias de progresso na ${nomesDeSemana[i]} semana.`);
+});
+
+
