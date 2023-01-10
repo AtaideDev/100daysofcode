@@ -18,20 +18,19 @@ A ideia do projeto é comprometer-se pelo menos uma hora por dia para codificar 
 
 **⫰ Semana-01**
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Day-01 - Converta idade em dias](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-01)
+&nbsp;&nbsp;&nbsp;&nbsp;[Dia-01 - Converta idade em dias](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-01)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Day-02 - Procurando Nemo](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-02)
+&nbsp;&nbsp;&nbsp;&nbsp;[Dia-02 - Procurando Nemo](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-02)
 
+&nbsp;&nbsp;&nbsp;&nbsp;[Dia-03 - Espetinho de carne ou vegano?](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-03)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Day-03 - Espetinho de carne ou vegano?](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-03)
+&nbsp;&nbsp;&nbsp;&nbsp;[Dia-04 - John está progredindo?](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-04)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Day-04 - John está progredindo?](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-04)
+&nbsp;&nbsp;&nbsp;&nbsp;[Dia-05 - Par de meias](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-05)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Day-05 - Par de meias](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-05)
+&nbsp;&nbsp;&nbsp;&nbsp;[Dia-06 - Proximo primo](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-06)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Day-06 - Proximo primo](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-06)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Day-07 - Matriz classificada]()
+&nbsp;&nbsp;&nbsp;&nbsp;[Dia-07 - Matriz classificada]()
 
 
 #### Ideia Original
