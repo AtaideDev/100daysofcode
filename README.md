@@ -16,7 +16,8 @@ A ideia do projeto é comprometer-se pelo menos uma hora por dia para codificar 
 ---
 ## Index
 
-**⫰ Semana-01**
+<details>
+<summary>Semana-01</summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Dia-01 - Converta idade em dias](https://github.com/AtaideDev/100daysofcode/tree/main/Week-01/day-01)
 
