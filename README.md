@@ -36,3 +36,8 @@ A ideia do projeto é comprometer-se pelo menos uma hora por dia para codificar 
 #### Ideia Original
 
 Confira o [Projeto #100DaysOfCode](https://www.100daysofcode.com/). Mudando seus hábitos você está mudando sua vida. Lembre-se que a melhor hora para começar é sempre AGORA!
+---
+### NÃO CONSEGUI!
+[11.01.23]
+Os desafios começaram a ficar muito dificeis pra mim, mas isso não significa que desisti, eu apenas estudarei mais por um tempo e voltarei a fazer os desafios.
+ESTAREMOS DE VOLTA EM FEVEREIRO.
